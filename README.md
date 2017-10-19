@@ -1,2 +1,2 @@
 # kriegl-snap-face
-for all your snap-facing needs
+For all your snap-facing needs
