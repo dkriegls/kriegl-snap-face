@@ -59,16 +59,18 @@ aside {
   width: 100%;
 }
 
+#video {
+  width: 100%;
+  float: rigth;
+}
 
-iframe {
-  margin-left: 1.6%;
-  width: 28%;
+video {
+  width: 100%;
+  height: auto;
 }
 
 @media screen and (max-width: 769px) {
-  
-  
-  
+    
   aside {
     float: none;
     width: 80%;
